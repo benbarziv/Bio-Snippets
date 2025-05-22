@@ -1,7 +1,7 @@
 # Bio script Snippets
 
 
-[![PyPI version](https://img.shields.io/pypi/v/bio_snippets.svg)](https://pypi.org/project/bio_snippets)
+
 
 
 A lightweight Python package of reusable bioinformatics utilities built on bio. Designed to simplify common sequence analyses with a consistent, test-driven API.
