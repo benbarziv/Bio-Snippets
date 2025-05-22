@@ -24,8 +24,7 @@ A lightweight Python package of reusable bioinformatics utilities built on bio. 
 * [API Reference](#api-reference)
 * [Examples](#examples)
 * [Development](#development)
-* [Contributing](#contributing)
-* [License](#license)
+
 
 ## Installation
 
