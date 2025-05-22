@@ -73,18 +73,6 @@ print(find_motif("GCGCGC", "GC"))  # [1, 3, 5]
 ```
 
 
-## API Reference
-
-Detailed function signatures and parameters are documented in the `docs/` directory. You can also browse the source in `bio_snippets/` for inline docstrings.
-
-## Examples
-
-Launch the Jupyter demo:
-
-```bash
-jupyter notebook docs/demo.ipynb
-```
-
 ## Development
 
 1. Create and activate a virtual environment:
