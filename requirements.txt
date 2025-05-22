@@ -1,0 +1,4 @@
+
+biopython>=1.79
+pytest>=7.0
+
