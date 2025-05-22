@@ -6,7 +6,7 @@
 
 A lightweight Python package of reusable bioinformatics utilities built on bio. Designed to simplify common sequence analyses with a consistent, test-driven API.
 
-## Features
+## Included Snippets
 
 * **GC Content**: Calculate the GC percentage of a DNA sequence.
 * **Reverse Complement**: Generate the reverse complement of a sequence.
