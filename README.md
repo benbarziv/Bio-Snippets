@@ -15,6 +15,9 @@ A lightweight Python package of reusable bioinformatics utilities built on bio. 
 * **Codon Usage**: Compute codon frequencies from a coding sequence.
 * **Melting Temperature**: Estimate primer melting temperature via the Wallace rule.
 * **Sequence Length**: Compute sequence length, ignoring whitespace.
+* **Transcription**: Transcribe a DNA sequence into RNA by replacing thymine (T) with uracil (U).
+* **Translation**: Translate a DNA sequence into a protein sequence using the standard genetic code.
+* **Restriction Site Finder**: Identify all occurrences of a restriction enzyme recognition site in a sequence.
 
 
 ## Table of Contents
