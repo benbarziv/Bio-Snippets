@@ -2,7 +2,7 @@
 
 [![Build Status](https://github.com/yourusername/bio_snippets/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/bio_snippets/actions/workflows/ci.yml)
 [![PyPI version](https://img.shields.io/pypi/v/bio_snippets.svg)](https://pypi.org/project/bio_snippets)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 
 A lightweight Python package of reusable bioinformatics utilities built on bio. Designed to simplify common sequence analyses with a consistent, test-driven API.
 
