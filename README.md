@@ -72,7 +72,6 @@ from bio_snippets.motif_finder import find_motif
 print(find_motif("GCGCGC", "GC"))  # [1, 3, 5]
 ```
 
-*(See more examples in the `docs/demo.ipynb` notebook.)*
 
 ## API Reference
 
