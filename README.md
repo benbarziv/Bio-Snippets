@@ -1,6 +1,6 @@
 # Bio script Snippets
 
-[![Build Status](https://github.com/yourusername/bio_snippets/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/bio_snippets/actions/workflows/ci.yml)
+(https://github.com/yourusername/bio_snippets/actions/workflows/ci.yml)
 [![PyPI version](https://img.shields.io/pypi/v/bio_snippets.svg)](https://pypi.org/project/bio_snippets)
 
 
