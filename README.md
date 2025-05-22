@@ -95,10 +95,5 @@ print(find_motif("GCGCGC", "GC"))  # [1, 3, 5]
    ```bash
    pytest -q
    ```
-5. (Optional) Build and upload to PyPI:
 
-   ```bash
-   python setup.py sdist bdist_wheel
-   twine upload dist/*
-   ```
 
